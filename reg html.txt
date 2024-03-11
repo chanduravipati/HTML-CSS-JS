@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="reg.css">
+    <title>Registration</title>
+</head>
+<body>
+ <div class="mainlayout">
+  <img src="sasi2logo.png" alt="img of sasi" width="500" height="180">       
+     <form align="center"> 
+     <table align="center" bgcolor="pink"> 
+    <caption><h1 style="color:blue;">Registration Form</h1></caption> 
+     <tr><td><label>Name:</label></td><td><input type="text" placeholder="Enter Name"></td><br> 
+     <tr><td><label>Email:</label></td><td><input type="email" placeholder="Enter Email"><br>
+      <tr><td><label>Phone No.:</label></td><td><input type="text" name="country code"  value="+91" size="2"><input type="text" name="phone" size="10"/> <br> <br> 
+     <tr><td><label>Username:</label></td><td><input type="text"><br> 
+     <tr><td><label>Password:</label></td><td><input type="password"><br> 
+     <tr><td><label>Confirm Password:</label></td><td><input type="password" ><br>
+     </table> 
+     <br><button type="submit">Submit</button> 
+     </form> 
+    </div>
+</body>

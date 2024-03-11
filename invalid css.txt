@@ -1,0 +1,12 @@
+.mainlayout{
+ width: 500px;
+ height: 340px;
+ margin-left: 400px;
+ margin-right: 300px;
+ border: 20px;
+ border: 9px;
+ border-style: solid;
+ display: block;
+ border-radius: 9px;
+ 
+}
