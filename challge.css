@@ -1,0 +1,68 @@
+.mainlayout{
+border: solid #24260bd9 5px;
+background-color: rgb(201, 233, 238);
+border-width: 5px;
+padding-top: 15px 0px;
+}
+.btn{
+background-color: rgb(25, 26, 25);
+color: antiquewhite;
+border: 0;
+height: 30px;
+width: 100%;
+
+}
+.btn:hover{
+    background-color: rgb(239, 246, 246);
+    color:rgb(7, 7, 7);
+}
+h1{
+    background-color: rgb(198, 198, 192);
+    margin-top:0;
+    padding-top: 7px;
+    padding-bottom: 5px
+}
+a:hover{
+    
+    text-decoration: none;
+}
+a:link,a:active,a:visited
+{
+    color:rgb(8, 8, 8);
+}
+li{
+    list-style: square;
+}
+.s1{
+    width: 25px;
+    height: 25px;
+    background-color: red
+}
+.s2{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(220, 239, 17)
+}
+.s3{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(15, 168, 179)
+}
+.s4{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(209, 19, 152)
+}
+.s5{
+    width: 25px;
+    height: 25px;
+    background-color: green
+}
+.shapes{
+    display: flex;
+
+}
+.shapes div{
+    margin-top: 10px;
+    margin-left: 10px;
+}
