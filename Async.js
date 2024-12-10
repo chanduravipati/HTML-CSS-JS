@@ -1,3 +1,3 @@
 console.log("Hello")
-alert("HI")
+setTimeout(()=>console.log("hi"),5000);
 console.log("world")
